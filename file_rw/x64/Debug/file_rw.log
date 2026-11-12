@@ -1,0 +1,3 @@
+﻿  file_rw.cpp
+D:\C++\file_rw\file_rw\file_rw.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  file_rw.vcxproj -> D:\C++\file_rw\x64\Debug\file_rw.exe
